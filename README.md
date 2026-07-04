@@ -1,2 +1,2 @@
-<u> # General Ledger Analysis </u> :blue_book:
+# <u> General Ledger Analysis </u> :blue_book:
 
