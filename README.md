@@ -10,3 +10,5 @@ SKU (Stock Keeping Unit) Rationalisation is a fundamental analytical process use
 While forecasting tools such as SARIMA (Seasonal AutoRegressive Integrated Moving Average) are more mathematically vigorous, simpler tools such as heatmaps can bridge
 the gap between data analyst specialists and the stakeholders they are trying to communicate to, making exploratory tools valuable as well.
 
+The dataset used came from the Iowa Department of Commerce which tracked all alcoholic sales within the state. ([Link](https://www.kaggle.com/datasets/residentmario/iowa-liquor-sales)
+
