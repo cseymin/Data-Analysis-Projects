@@ -4,7 +4,7 @@ Finance departments analyse general ledger entries to ascertain unusual entries 
 Hence, analytical tools such as Benford's Law and Control Charts are useful to learn and apply in this field.
 
 
-# <u> Alcohol Analysis </u> :beer: ([File](Beer%20Analysis.ipynb))
+# <u> Alcohol Analysis </u> :beer: ([File](Alcohol%20Analysis.ipynb))
 
 SKU (Stock Keeping Unit) Rationalisation is a fundamental analytical process used by many businesses to optimize their product offerings and minimize inventory costs.
 While forecasting tools such as SARIMA (Seasonal AutoRegressive Integrated Moving Average) are more mathematically vigorous, simpler tools such as heatmaps can bridge
