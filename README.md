@@ -18,7 +18,7 @@ Natural Language Processing (NLP) is a valuable tool in data analytics for the a
 
 Due to the sheer size of the dataset, SQL is better for quick exploratory analysis as I have done here.
 
-The dataset used contains complaints made by American customers towards American companies that specialize in financial services. ([Link](https://www.kaggle.com/datasets/residentmario/iowa-liquor-sales](https://www.kaggle.com/datasets/kaggle/us-consumer-finance-complaints))
+The dataset used contains complaints made by American customers towards American companies that specialize in financial services. ([Link](https://www.kaggle.com/datasets/kaggle/us-consumer-finance-complaints))
 
 
 
