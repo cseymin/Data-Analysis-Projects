@@ -12,3 +12,11 @@ the gap between data analyst specialists and the stakeholders they are trying to
 
 The dataset used came from the Iowa Department of Commerce which tracked all alcoholic sales within the state. ([Link](https://www.kaggle.com/datasets/residentmario/iowa-liquor-sales))
 
+# <u> Text Analysis </u> :blue_book: ([File](Text%20Analysis.ipynb))
+
+Natural Language Processing (NLP) is a valuable tool in data analytics for the analysis for textual data. Text data cleaning and machine learning models are utilised to analyse complaints by customers towards banks for actionable goals. 
+
+The dataset used contains complaints made by American customers towards American companies that specialize in financial services. ([Link]([https://www.kaggle.com/datasets/residentmario/iowa-liquor-sales](https://www.kaggle.com/datasets/kaggle/us-consumer-finance-complaints)))
+
+
+
